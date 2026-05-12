@@ -1,0 +1,16 @@
+2026-05-12 15:54:40.397992 - Reserva confirmada para Juan
+2026-05-12 15:54:40.399383 - Proceso de confirmación finalizado
+2026-05-12 15:54:40.400996 - CLIENTE ERROR: Correo inválido
+2026-05-12 15:54:40.401972 - RESERVA ERROR: Tiempo inválido
+2026-05-12 15:54:40.403079 - Reserva confirmada para Laura
+2026-05-12 15:54:40.404227 - Proceso de confirmación finalizado
+2026-05-12 15:54:40.413560 - CLIENTE ERROR: El nombre no puede estar vacío
+2026-05-12 15:54:40.414567 - Reserva confirmada para Carlos
+2026-05-12 15:54:40.415740 - Proceso de confirmación finalizado
+2026-05-12 15:54:40.416677 - Reserva confirmada para María
+2026-05-12 15:54:40.417866 - Proceso de confirmación finalizado
+2026-05-12 15:54:40.418917 - RESERVA ERROR: Tiempo inválido
+2026-05-12 15:54:40.420627 - Reserva confirmada para Camila
+2026-05-12 15:54:40.422377 - Proceso de confirmación finalizado
+2026-05-12 15:54:40.423377 - Reserva confirmada para Andrés
+2026-05-12 15:54:40.425210 - Proceso de confirmación finalizado
